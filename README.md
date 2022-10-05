@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![untitled](https://user-images.githubusercontent.com/108562496/194116299-901a72da-35ef-420b-b7a5-b31f88c7d486.GIF)
 
 <!--
 **LinaAlvarado/LinaAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
