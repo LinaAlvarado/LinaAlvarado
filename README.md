@@ -1,7 +1,7 @@
 
 
+![Holaaa! (1)](https://user-images.githubusercontent.com/108562496/194117976-1da49414-ab8b-4d96-981f-900632524d11.jpg)
 
-![Holaaa!](https://user-images.githubusercontent.com/108562496/194116795-275176c4-ccb9-4218-936d-08f700cf8f0d.gif)
 
 
 
