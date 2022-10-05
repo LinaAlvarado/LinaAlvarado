@@ -1,6 +1,6 @@
 
 
-![Holaaa! (1)](https://user-images.githubusercontent.com/108562496/194117976-1da49414-ab8b-4d96-981f-900632524d11.jpg)
+![Holaaa! (1)_preview_rev_1](https://user-images.githubusercontent.com/108562496/194118116-94125e16-97d7-413b-9284-53319b8b27e7.png)
 
 
 
