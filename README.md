@@ -1,6 +1,6 @@
 
+![Sitio Web](https://user-images.githubusercontent.com/108562496/194123122-edd19e4d-fb7a-4716-8b82-cec8c7273dd4.png)
 
-![Holaaa! (1)_preview_rev_1](https://user-images.githubusercontent.com/108562496/194118116-94125e16-97d7-413b-9284-53319b8b27e7.png)
 
 
 
