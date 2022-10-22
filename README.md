@@ -2,8 +2,9 @@
 
 
 
-![](https://user-images.githubusercontent.com/108562496/194203645-233604e9-ff0a-414e-9c91-c697e7eca80b.png)
 
+
+![about](https://user-images.githubusercontent.com/108562496/197308627-a233694e-cddf-4e00-99bc-29e22fc5a3a7.png)
 
 
 <!--
