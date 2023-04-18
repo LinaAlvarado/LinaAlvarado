@@ -3,9 +3,6 @@
 
 ## 💫 Sobre mi.
 Soy diseñadora ux/ui y frontend developer, amo crear.<br>Mi pasión es hacer de la tecnología un lugar accesible a todos y ser <br>parte de los que crean ideas sencillas y creativas a problemas de usuarios.
-
-
-## 🌐 Búscame por aquí.. 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/linaalvarado) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lina-maria-alvarado-pallares/) 
 
 ## 💻 Stack.
@@ -14,8 +11,6 @@ Soy diseñadora ux/ui y frontend developer, amo crear.<br>Mi pasión es hacer de
 y..siempre busco aprender cosas nuevas! 🤩
 
 ## 📊 GitHub estadísticas:
-![](https://github-readme-stats.vercel.app/api?username=LinaAlvarado&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LinaAlvarado&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LinaAlvarado&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Citas random sobre desarrollo
