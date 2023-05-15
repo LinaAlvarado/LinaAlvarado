@@ -12,9 +12,6 @@ Soy diseñadora ux/ui y frontend developer, amo crear. Mi pasión es hacer de la
 
 y..siempre busco aprender cosas nuevas! 🤩
 
-## Estadísticas GitHub
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LinaAlvarado&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### Citas random sobre desarrollo ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
